@@ -1,8 +1,8 @@
 #REDAP_UN 1.0
 
-# Inicialmente se descarga de https://drive.google.com/drive/folders/18oV5-_Gw5NXT6Duyuhf6_bOOC7dHE_JF?usp=sharing  #
-# el archivo denominado "Datos_Finales.csv y se incluye en la carpeta "data", con el fin de poder tener los datos   #
-# brutos en la carpeta de la aplicacion.                                                                            #
+# Inicialmente se descarga de "https://drive.google.com/drive/folders/18oV5-_Gw5NXT6Duyuhf6_bOOC7dHE_JF?usp=sharing"  #
+# el archivo denominado "Datos_Finales.csv y se incluye en la carpeta "data", con el fin de poder tener los datos     #
+# brutos en la carpeta de la aplicacion.                                                                              #
 
 
 
