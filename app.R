@@ -16,9 +16,8 @@ library(leaflet)
 
 #Datos
 datos_estaciones <- read.csv("data/Datos_Finales.csv", header=TRUE)
-datos_estaciones1<-datos_estaciones
-x=as.POSIXct(datos_estaciones[,1],format="%Y-%m-%d %H:%M")
-datos_estaciones[,1]<-x
+x=as.POSIXct(datos_estaciones$Fecha,format="%Y-%m-%d %H:%M")
+datos_estaciones$Fecha<-x
 
 
 
